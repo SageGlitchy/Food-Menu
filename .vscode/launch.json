@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/madha/Documents/GitHub/Food-Menu",
-      "program": "c:/Users/madha/Documents/GitHub/Food-Menu/build/Debug/outDebug",
+      "cwd": "c:/Users/madha/Documents/GitHub/Food-Menu/C",
+      "program": "c:/Users/madha/Documents/GitHub/Food-Menu/C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
